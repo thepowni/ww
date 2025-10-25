@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-10-08",
+  "main": "src/index.ts",
+  "name": "ww",
+  "upload_source_maps": true,
+  "observability": {
+    "enabled": true
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "orwoxdbsql",
+      "database_id": "622f5c57-7c53-4a6a-85a5-971aa11223fd"
+    }
+  ]
+}
